@@ -4,10 +4,10 @@ Classify the components of handwritten Bengali
 This is my first attempt at computer vision, and it was fascinating.
 Before the start of this competition, I didn’t even know what pytorch is, I had a little experience of Tensorflow and Keras and it was a fascinating journey.
  
-My best attempt came a few days before the end of the competition
-Private Score 0.9219, Public Score 0.9678 my place~600 33%
-Top 10% score .09630 205 place
-First place 0.9762
+My best attempt came a few days before the end of the competition:
+- Private Score 0.9219, Public Score 0.9678, my place~600 33%
+- Top 10% score .09630 205 place
+- First place 0.9762
  
 I've tried a lot of things:
 
