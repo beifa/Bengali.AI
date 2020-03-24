@@ -15,7 +15,7 @@ I've tried a lot of things:
 - argument
 - image size and other….
  
-My mistake that I encountered and for a long time could not cross the line at 0.92 was model.eval (). 
+My mistake that I encountered and for a long time could not cross the line at 0.92LB was model.eval (). 
 When I trained the network train and validated, I used model.train and eval, but when I loaded the saved model, I didn’t use (eval), 2 weeks have sunk into oblivion and with it a bunch of everything has been tried.
  
 I basically didn’t use other people's kernels (I didn’t make a prediction) because the goal is knowledge.
